@@ -111,20 +111,3 @@ INSERT INTO tasks_users (id_user, id_task) VALUES
 (2, 3), 
 (3, 2); 
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
